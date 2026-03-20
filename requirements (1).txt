@@ -4,4 +4,8 @@ xgboost
 scikit-learn
 openai
 altair
+fastapi
+uvicorn[standard]
+pydantic
+requests
 plotly
